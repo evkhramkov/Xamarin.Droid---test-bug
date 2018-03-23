@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{E1C6E686-D2A8-4C0C-89AF-AA154D97F4ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/SplashScreen.cs">
+    <Files>
+      <File FileName="TestBlack/Services/MockDataStore.cs" Line="1" Column="1" />
+      <File FileName="TestBlack/ViewModels/AboutViewModel.cs" Line="1" Column="1" />
+      <File FileName="TestBlack/ViewModels/BaseViewModel.cs" Line="1" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="6" Column="23" />
+      <File FileName="Droid/Resources/values/styles.xml" Line="9" Column="62" />
+      <File FileName="Droid/SplashScreen.cs" Line="9" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestBlack.Droid PreferredExecutionTarget="Android.192.168.57.101:5555" />
+  <MonoDevelop.Ide.ItemProperties.TestBlack HideGettingStarted="True" />
+</Properties>
